@@ -3,6 +3,7 @@
 ### Requirements
 
 Linux: sudo pip install -r requirements.txt
+
 Window$: py -m pip install -r requirements.txt
 
 ### Usage
