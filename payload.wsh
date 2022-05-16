@@ -1,0 +1,5 @@
+[ScriptFile]
+Path=D:\dev\git\verbose-invention\payload.vbs
+[Options]
+Timeout=0
+DisplayLogo=0
